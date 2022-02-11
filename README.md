@@ -1,0 +1,2 @@
+# GS
+LUA Scripts FiveM
